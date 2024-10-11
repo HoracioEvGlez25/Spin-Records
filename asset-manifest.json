@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HoracioEvGlez25/Spin-Records.git/static/css/main.f44b8b04.css",
+    "main.js": "/HoracioEvGlez25/Spin-Records.git/static/js/main.1173f353.js",
+    "index.html": "/HoracioEvGlez25/Spin-Records.git/index.html",
+    "main.f44b8b04.css.map": "/HoracioEvGlez25/Spin-Records.git/static/css/main.f44b8b04.css.map",
+    "main.1173f353.js.map": "/HoracioEvGlez25/Spin-Records.git/static/js/main.1173f353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44b8b04.css",
+    "static/js/main.1173f353.js"
+  ]
+}
