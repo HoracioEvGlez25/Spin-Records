@@ -42,5 +42,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
-  }
+  },
+  "repository": "https://github.com/ChrisMtz505/Spin-RecordsAdminCaliz.git"
 }
